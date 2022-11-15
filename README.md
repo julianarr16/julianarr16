@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @julianarr16
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning programming
